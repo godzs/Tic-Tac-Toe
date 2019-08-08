@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "井字棋_vs2017", "井字棋_vs2017\井字棋_vs2017.vcxproj", "{B9C8AA5E-84BA-4E60-B90D-80621F645307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9C8AA5E-84BA-4E60-B90D-80621F645307}.Debug|x64.ActiveCfg = Debug|x64
+		{B9C8AA5E-84BA-4E60-B90D-80621F645307}.Debug|x64.Build.0 = Debug|x64
+		{B9C8AA5E-84BA-4E60-B90D-80621F645307}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9C8AA5E-84BA-4E60-B90D-80621F645307}.Debug|x86.Build.0 = Debug|Win32
+		{B9C8AA5E-84BA-4E60-B90D-80621F645307}.Release|x64.ActiveCfg = Release|x64
+		{B9C8AA5E-84BA-4E60-B90D-80621F645307}.Release|x64.Build.0 = Release|x64
+		{B9C8AA5E-84BA-4E60-B90D-80621F645307}.Release|x86.ActiveCfg = Release|Win32
+		{B9C8AA5E-84BA-4E60-B90D-80621F645307}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD0D5EE0-F5EF-46BC-8180-05F0C0C4A1EC}
+	EndGlobalSection
+EndGlobal
